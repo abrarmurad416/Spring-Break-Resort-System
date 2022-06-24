@@ -3,8 +3,6 @@ using namespace std;
 #include <unistd.h>
 #include <time.h>
 
-// Hello Ms. Bailey! This is my SBRU design, and it might not be on the same level as some of the others, but I tried my best alone and put my effort.
-
 // Student class for option 1 in int main.
 class student {
 public:
